@@ -17,10 +17,13 @@ Komponen Pembangun Produk:
 Sumber Data: Data Lapangan dan Daya Google Maps
 Tangkapan Layar Komponen Produk:
 <p align="left">
-  <img src="https://github.com/restaokf/Stunting-Hub/blob/main/img/login.png" width="200" height="400"/>
-   <img src="https://github.com/restaokf/Stunting-Hub/blob/main/img/home.png" width="200" height="400"/>
-   <img src="https://github.com/restaokf/Stunting-Hub/blob/main/img/add.png" width="200" height="400"/>
-   <img src="https://github.com/restaokf/Stunting-Hub/blob/main/img/map.png" width="200" height="400"/>
+  <img src="https://github.com/MihoMarta/RESPONSI/blob/main/Route1.png" width="200" height="400"/>
+   <img src="https://github.com/MihoMarta/RESPONSI/blob/main/Route2.png" width="200" height="400"/>
+   <img src="https://github.com/MihoMarta/RESPONSI/blob/main/Galeri.png" width="200" height="400"/>
+   <img src="https://github.com/MihoMarta/RESPONSI/blob/main/Maps.png" width="200" height="400"/>
+  <img src="https://github.com/MihoMarta/RESPONSI/blob/main/AddData.png" width="200" height="400"/>
+  <img src="https://github.com/MihoMarta/RESPONSI/blob/main/Pesan.png" width="200" height="400"/>
+  <img src="https://github.com/MihoMarta/RESPONSI/blob/main/Catalog.png" width="200" height="400"/>
 </p>
 
 npThis is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
